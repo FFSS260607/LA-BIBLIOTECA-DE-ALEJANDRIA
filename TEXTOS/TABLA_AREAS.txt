@@ -1,0 +1,16 @@
+GEN: Generalidades.
+FIP: Filosofía y psicología.
+REL: Religión.
+CSO: Ciencias sociales.
+LEN: Lengua.
+MAT: Matemática y ciencias naturales.
+ICI: Ingeniería Civil.
+INF: Informática y Computación.
+CSO: Comunicación social.
+MEC: Mecatrónica.
+DER: Derecho.
+ADM: Administración.
+CNT: Contaduría.
+ART: Artes.
+LIT: Literatura.
+HIS: Historia y geografía.
